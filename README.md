@@ -1,5 +1,5 @@
 # 10th-Research
-# 🐲EURON 10기 Research 세션🐲
+# 🐥EURON 10기 Research 세션🐥
 
 ## 🗂️ Curriculum
 |주차|날짜|내용|발제자|필수 토의 참여자
